@@ -1,6 +1,6 @@
 # stramiengit.github.io
 
-This repository exists solely to serve the **MTA-STS policy** for `phimac.be` via GitHub Pages.
+This repository exists solely to serve the **MTA-STS policy** for `stramien.be` via GitHub Pages.
 
 ## What is MTA-STS?
 
